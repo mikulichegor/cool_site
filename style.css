@@ -1,0 +1,31 @@
+p {
+
+    background-color:#1e32c9;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+.iphone{
+font-size:50px;
+}
+.tt{
+text-align:center;
+}
+.two {
+    background-color:purple;
+    font-size:30px;
+}
+body {background-color: coral;}
+.one {
+    font-size:50px;
+}
+
+.five {
+    font-size:80px;
+}
+
+h1 {
+    padding-left: 200px;
+    border: 2px solid black;
+}
